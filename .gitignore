@@ -1,0 +1,33 @@
+# Конфигурация с личными токенами (не коммитить в репозиторий!)
+config.json
+
+# Кэш текстов песен (оставляем саму папку через .gitkeep)
+lyrics/*.lrc
+!lyrics/.gitkeep
+
+# Логи работы
+*.log
+rpc.log
+rpc.err.log
+
+# Сборка PyInstaller (.exe)
+dist/
+build/
+*.spec
+
+# Python кэш и байт-код
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Настройки IDE и редакторов
+.vscode/
+.idea/
+*.swp
+*.swo

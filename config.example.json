@@ -1,0 +1,11 @@
+{
+  "_readme": "Вставь в client_id свой Application ID с https://discord.com/developers/applications (OAuth2)",
+  "client_id": "YOUR_APPLICATION_ID_HERE",
+  "show_time": true,
+  "show_button": true,
+  "show_images": true,
+  "show_lyrics": true,
+  "lyrics_estimate": true,
+  "yandex_token": "",
+  "refresh_interval": 2
+}
