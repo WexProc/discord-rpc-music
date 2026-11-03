@@ -91,7 +91,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<your-username>/discord-rpc-music.git
+   git clone https://github.com/WexProc/discord-rpc-music.git
    cd discord-rpc-music
    ```
 2. Установите зависимости:
